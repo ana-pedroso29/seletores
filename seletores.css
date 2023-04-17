@@ -1,0 +1,63 @@
+.cantos {
+
+    display: inline-block;
+    background-color: red;
+
+    border: 1px solid black;
+    border-width: 2px;
+
+    width: 200px;
+
+    height: 200px;
+
+}
+.red {
+
+    display: inline-block;
+    background-color: red;
+
+    border: 1px solid white;
+
+    width: 200px;
+
+    height: 200px;
+
+}
+.blue {
+
+    display: inline-block;
+    background-color: rgb(43, 147, 243);
+
+    border: 1px solid white;
+
+    width: 200px;
+
+    height: 200px;
+
+}
+.green {
+
+    display: inline-block;
+    background-color: rgb(37, 168, 20);
+
+    border: 1px solid white;
+
+    width: 200px;
+
+    height: 200px;
+
+}
+
+.yellow {
+
+    display: inline-block;
+    background-color: yellow;
+
+    border: 1px solid white;
+
+    width: 200px;
+
+    height: 200px;
+
+}
+
